@@ -1,0 +1,17 @@
+======================
+ATASCII Sublime Plugin
+======================
+
+Use this plugin in conjunction with the AtariTools plugin to edit AtariBASIC the modern way! Requires the Atari Classic font from http://members.bitstream.net/marksim/atarimac/fonts.html
+
+To Insert Characters:
+
+- Press Ctrl+Shift+A Ctrl+Shift+A to open a popup panel with ATASCII Inverted Characters. Click to insert characters. To close the panel press ESC or click outside the panel.
+
+- Press Ctrl+Shift+A Ctrl+Shift+S to open a popup panel with ATASCII Special Characters. To close the panel press ESC or click outside the panel.
+
+- Press Ctrl+Shift+A Ctrl+Shift+D to open a popup panel with ATASCII Draw Characters. To close the panel press ESC or click outside the panel.
+
+#### Invert Selected Text
+
+Press Ctrl+Shift+A Ctrl+Shift+I to invert the selected text, replacing all normal characters with inverted characters and vice-versa.
