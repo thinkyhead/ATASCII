@@ -1,0 +1,12 @@
+{
+  "name": "ATASCII",
+  "description": "Sublime Text plugin to insert and invert ATASCII Unicode characters",
+  "version": "0.1.0",
+  "url": "https://github.com/thinkyhead/ATASCII",
+  "readme": "README.md",
+  "issues": "https://github.com/thinkyhead/ATASCII/issues",
+  "previous_names": [],
+  "labels": ["atascii", "atari"],
+  "platforms": ["*"],
+  "st_versions": [3, 4]
+}

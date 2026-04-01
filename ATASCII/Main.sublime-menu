@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tools",
+    "children":
+    [
+      {
+        "id": "atascii",
+        "caption": "ATASCII",
+        "children":
+        [
+          {
+            "caption": "Insert Character",
+            "command": "insert_atascii"
+          },
+          {
+            "caption": "Invert Character",
+            "command": "invert_atascii"
+          }
+        ]
+      }
+    ]
+  }
+]

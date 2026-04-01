@@ -1,0 +1,10 @@
+[
+  {
+    "keys": ["super+shift+a"],
+    "command": "insert_atascii"
+  },
+  {
+    "keys": ["super+shift+i"],
+    "command": "invert_atascii"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "ATASCII: Insert Character",
+    "command": "insert_atascii"
+  },
+  {
+    "caption": "ATASCII: Invert Character",
+    "command": "invert_atascii"
+  }
+]
